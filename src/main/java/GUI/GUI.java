@@ -160,4 +160,9 @@ public class GUI {
             }
         }
     }
+    public static int leeEntero(String msg) {
+        System.out.println(msg);
+        Scanner teclado = new Scanner(System.in);
+        return teclado.nextInt();
+    }
 }
