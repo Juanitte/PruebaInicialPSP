@@ -1,4 +1,4 @@
-package model.controller;
+package controller;
 import GUI.GUI;
 import utils.Util;
 
